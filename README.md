@@ -47,9 +47,9 @@ I build and maintain infrastructure the way developers write code — automated,
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-RohanMukherjee-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-mukherjee-53b56728a/)
-[![GitHub](https://img.shields.io/badge/GitHub-RohanMukherjee-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RohanMukherjee01)
-[![Email](https://img.shields.io/badge/Gmail-RohanMukherjee-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanmukherjee1121@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan--Mukherjee-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-mukherjee-53b56728a/)
+[![GitHub](https://img.shields.io/badge/GitHub-Rohan--Mukherjee-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RohanMukherjee01)
+[![Email](https://img.shields.io/badge/Gmail-Rohan--Mukherjee-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanmukherjee1121@gmail.com)
 
 
 <br/>
