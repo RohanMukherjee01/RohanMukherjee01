@@ -22,9 +22,7 @@
 
 ---
 
-```zsh
-~/RohanMukherjee01 — zsh
-❯ cat about.md
+```
 ```
 
 ## `// ABOUT`
