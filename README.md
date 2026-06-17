@@ -31,7 +31,9 @@ I build and maintain infrastructure the way developers write code — automated,
 › 👁️ Observability     : Dynatrace · Davis AI · DQL · Prometheus · Grafana
 › ⚙️ Automation & OS   : Python · PowerShell · Linux Admin · Windows Server
 
-```   
+```
+<div align="center">
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rohan-mukherjee-53b56728a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohanmukherjee1121@gmail.com) 
 
@@ -41,6 +43,8 @@ I build and maintain infrastructure the way developers write code — automated,
 ![](https://github-readme-stats.shion.dev/api?username=RohanMukherjee01&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=RohanMukherjee01&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RohanMukherjee01&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 
 ## `// CONNECT`
 
@@ -55,6 +59,6 @@ I build and maintain infrastructure the way developers write code — automated,
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=80&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:10B981,100:0d1117&height=80&section=footer" width="100%"/>
 </div>
 
