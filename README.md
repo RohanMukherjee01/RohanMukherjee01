@@ -27,7 +27,7 @@
 ❯ cat about.md
 ```
 
-// ABOUT
+## `// ABOUT`
 I build and maintain infrastructure the way developers write code — automated, scalable, and failure-resilient.
 
 Cloud & Infrastructure Engineer at LTIMindtree with 2.9+ years of experience in enterprise monitoring, cloud operations, and incident management. I gravitate toward systems that run at scale for people who depend on them — currently managing an environment of 500+ Windows and Linux servers and consistently delivering 99.95% service availability.
