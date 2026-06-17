@@ -25,3 +25,14 @@
 ```zsh
 ~/RohanMukherjee01 — zsh
 ❯ cat about.md
+```
+
+// ABOUT
+I build and maintain infrastructure the way developers write code — automated, scalable, and failure-resilient.
+
+Cloud & Infrastructure Engineer at LTIMindtree with 2.9+ years of experience in enterprise monitoring, cloud operations, and incident management. I gravitate toward systems that run at scale for people who depend on them — currently managing an environment of 500+ Windows and Linux servers and consistently delivering 99.95% service availability.
+
+Observability-minded from day one: an unmonitored system is a liability. By leveraging AI-driven APM tools and rigorous RCA practices, I focus on catching failures before users notice them, successfully reducing Mean Time to Resolution (MTTR) by 25%. Currently advancing in Kubernetes (GKE) and multi-cloud architectures to build the next generation of robust infrastructure.
+
+› Google Cloud Platform · Terraform · Docker · Kubernetes · Linux
+› Dynatrace · Davis AI · DQL · Prometheus · PowerShell · Scripting
