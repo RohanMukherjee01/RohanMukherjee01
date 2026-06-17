@@ -43,6 +43,24 @@ I build and maintain infrastructure the way developers write code — automated,
 
 </div>
 
+## `// SKILLS & STACK`
+
+<div align="center">
+
+<!-- Cloud & OS -->
+<img src="https://skillicons.dev/icons?i=gcp,azure,linux,windows&theme=dark" /><br/>
+
+<!-- Containers & IaC -->
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,bash&theme=dark" /><br/>
+
+<!-- Scripting & Version Control -->
+<img src="https://skillicons.dev/icons?i=powershell,python,git,github&theme=dark" /><br/>
+
+<!-- Observability & Servers -->
+<img src="https://skillicons.dev/icons?i=grafana,prometheus,mysql,nginx&theme=dark" />
+
+</div>
+
 ## `// CONNECT`
 
 <div align="center">
@@ -51,8 +69,6 @@ I build and maintain infrastructure the way developers write code — automated,
 [![GitHub](https://img.shields.io/badge/GitHub-Rohan--Mukherjee-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RohanMukherjee01)
 [![Email](https://img.shields.io/badge/Gmail-Rohan--Mukherjee-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanmukherjee1121@gmail.com)
 
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:10B981,100:0d1117&height=80&section=footer" width="100%"/>
 </div>
