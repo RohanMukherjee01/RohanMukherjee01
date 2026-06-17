@@ -27,9 +27,9 @@ I build and maintain infrastructure the way developers write code — automated,
 
 ```
 
-› Google Cloud Platform · Terraform · Docker · Kubernetes · Linux
-
-› Dynatrace · Davis AI · DQL · Prometheus · PowerShell · Scripting
+› ☁️ Cloud & IaC       : Google Cloud (GCP) · Terraform · Kubernetes (GKE) · Docker
+› 👁️ Observability     : Dynatrace · Davis AI · DQL · Prometheus · Grafana
+› ⚙️ Automation & OS   : Python · PowerShell · Linux Admin · Windows Server
 
 ```   
 ## 🌐 Socials:
