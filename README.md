@@ -42,3 +42,19 @@ I build and maintain infrastructure the way developers write code — automated,
 ![](https://streak-stats.demolab.com/?user=RohanMukherjee01&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RohanMukherjee01&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## `// CONNECT`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Biswajit_Sow-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biswajit-sow-49baa8289/)
+[![GitHub](https://img.shields.io/badge/GitHub-Biswajit--sow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Biswajit-sow)
+[![Email](https://img.shields.io/badge/Gmail-biswajitsow49-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biswajitsow49@gmail.com)
+[![Linktree](https://img.shields.io/badge/Linktree-Biswajit__Sow-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Biswajit_Sow)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--5866--769X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-5866-769X)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=80&section=footer" width="100%"/>
+
+</div>
+
