@@ -34,5 +34,7 @@ Cloud & Infrastructure Engineer at LTIMindtree with 2.9+ years of experience in 
 
 Observability-minded from day one: an unmonitored system is a liability. By leveraging AI-driven APM tools and rigorous RCA practices, I focus on catching failures before users notice them, successfully reducing Mean Time to Resolution (MTTR) by 25%. Currently advancing in Kubernetes (GKE) and multi-cloud architectures to build the next generation of robust infrastructure.
 
+```
 › Google Cloud Platform · Terraform · Docker · Kubernetes · Linux
 › Dynatrace · Davis AI · DQL · Prometheus · PowerShell · Scripting
+```
