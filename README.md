@@ -22,8 +22,6 @@
 
 ---
 
-```
-```
 
 ## `// ABOUT`
 I build and maintain infrastructure the way developers write code — automated, scalable, and failure-resilient.
